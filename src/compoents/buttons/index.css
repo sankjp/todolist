@@ -1,0 +1,11 @@
+.Primary {
+    background-color: rgb(228, 170, 100);
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 32px;
+    width: 56px;
+    font-weight: 500;
+}
+.Primary:hover{
+    background-color: rgb(162, 89, 231);
+}
